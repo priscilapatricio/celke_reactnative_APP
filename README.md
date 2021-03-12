@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="AppCelke" src="/appcelke.png" width="100%"><br>
+  <img alt="AppCelke" src="/appcelke.png" width="50%"><br>
 
 </p>
 
