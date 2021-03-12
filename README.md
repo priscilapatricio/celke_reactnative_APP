@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="celke" title="Celke" src="/public/favicon.ico" width="60px" />
+    <img alt="celke" title="Celke" src="/favicon.ico" width="60px" />
 </h1>
 
 <p align="center">
