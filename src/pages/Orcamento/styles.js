@@ -38,3 +38,15 @@ export const TxtSubmitForm = styled.Text`
     color: #00a1fc;
     font-size: 22px;
 `;
+
+
+export const LoadingArea = styled.View`
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.6);
+    align-items: center;
+    justify-content: center;
+`;
